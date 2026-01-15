@@ -2,7 +2,7 @@ I'm Aleena Naseer, a Computer Science student passionate about coding, problem-s
 
 🔭 I’m currently working on web development projects experiments
 
-🌱 I’m currently learning *React, Node.js *
+🌱 I’m currently learning React, Node.js
 
 👯 I’m looking to collaborate on open-source projects and creative tech ideas
 
